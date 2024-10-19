@@ -45,11 +45,4 @@ How does the type of contract (month-to-month, one-year, two-year) influence chu
 5.	Payment Method and Churn:
  Does the chosen payment method impact churn behavior? Are customers using certain payment methods more likely to churn than others?
 
- ## Installation: 
-- pyodbc
-- python-dotenv
-- openpyxl
-- imbalanced-learn
 
-## Authors
-Team Fiji Members
